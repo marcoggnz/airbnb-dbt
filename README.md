@@ -11,7 +11,7 @@ The objetive of this project is to master the ins and outs of dbt through carryi
 * Snowflake
 * Preset
  
-# Features Covered
+## Features Covered
 
  * dbt Models
  * dbt Materializations
